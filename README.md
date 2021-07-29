@@ -224,6 +224,103 @@ estable) y compare los resultados con los que obtuvo en el problema 35.
 
 CAPITULO 12: 
 
+12-3 Flujo magnético y densidad de flujo
+
+1. Vea la figura 12-41:
+
+![image](https://user-images.githubusercontent.com/84587120/127433171-dbe3e106-4c92-431c-9e0b-86a17d92fc5e.png)
+
+a. ¿Qué área, A1 o A2, utilizaría para calcular la densidad de flujo?
+
+b. Si 	  28 mWb, ¿cuál es la densidad de flujo en teslas?
+
+3. El toroide de la figura 12-42 tiene una sección transversal circular y 	  628
+Wb. Si r1  8 cm y r2  12 cm, ¿cuál es la densidad de flujo en teslas?
+
+![image](https://user-images.githubusercontent.com/84587120/127433193-44bc2d6c-b714-4330-a75b-878346d0d4be.png)
+
+12-5 Espacios de aire, desbordamiento y núcleos laminados
+
+5. Si la sección del núcleo en la figura 12-43 que mide 0.025 m por 0.04 m, tiene
+un factor de apilamiento de 0.85 y B  1.45 T, ¿qué valor tiene 	 en webers?
+12-6 Elementos en serie y en paralelo
+
+![image](https://user-images.githubusercontent.com/84587120/127433256-0a5699e0-287d-4e2b-b200-7cadb7b270fe.png)
+
+7. Para la sección del núcleo de hierro de la figura 12-45, si 	1  12 mWb y 
+	3  2 mWb, ¿cuánto vale B2?
+ 
+ ![image](https://user-images.githubusercontent.com/84587120/127433308-20d387b4-076d-4b96-bdf0-620f199a648a.png)
+
+12-8 Intensidad de campo magnético y curvas de magnetización
+
+9. Un núcleo con dimensiones de 2 cm  3 cm tiene una intensidad magnética
+de 1200 Av/m. ¿Qué valor tiene 	 si el núcleo es de hierro fundido? ¿Si es de
+acero fundido? ¿Si es de hoja de acero con FA  0.94?
+
+
+11. Considere una vez más la figura 12-42. Si I  10 A, N  40 vueltas, r1 
+5 cm y r2  7 cm, ¿qué valor tiene H en amperes-vuelta por metro?
+
+![image](https://user-images.githubusercontent.com/84587120/127433388-965f15d2-3a67-491b-ba3a-7d54c084057d.png)
+
+12-9 Ley de circuitos de Ampère
+
+13. Suponga que una bobina N2 que lleva la corriente I2 se añade al brazo 3 del
+núcleo que se muestra en la figura 12-47 y que produce un flujo dirigido hacia
+arriba. Sin embargo, suponga que el flujo neto en el brazo 3 aún va hacia
+abajo. Escriba las ecuaciones de la ley de Ampère para este caso. 
+
+![image](https://user-images.githubusercontent.com/84587120/127433550-151f3208-d059-444b-95f1-3893745308eb.png)
+
+15. Encuentre la corriente I en la figura 12-48 si 	  0.16 mWb.
+
+![image](https://user-images.githubusercontent.com/84587120/127433592-2fada208-b8e4-444e-acc5-ee63e5c5ffe5.png)
+
+
+
+17. Se corta un espacio de 0.5 mm en la porción del núcleo de acero fundido de la
+figura 12-48. Encuentre la corriente para 	  0.128 mWb. No tome en cuenta
+el desbordamiento. 
+
+![image](https://user-images.githubusercontent.com/84587120/127433632-7a7302c6-5738-4c11-9479-3101c443409f.png)
+
+19. El núcleo de hierro fundido de la figura 12-49 mide 1 cm  1.5 cm, a  0.3
+mm, la densidad de flujo del espacio de aire es de 0.426 T y N  600 vueltas.
+Los extremos de la pieza tienen forma semicircular. Tomando en cuenta el
+desbordamiento, encuentre la corriente I.
+
+![image](https://user-images.githubusercontent.com/84587120/127433668-5627b3c6-6d69-428f-b6b9-c66b914ee6f2.png)
+
+21. Para el circuito de la figura 12-51, 	  30  Wb y N  2000 vueltas. No
+tome en cuenta el desbordamiento y encuentre la corriente I
+
+![image](https://user-images.githubusercontent.com/84587120/127433710-06f12f48-6bfe-4a57-8ddc-de0ba83ed277.png)
+
+23. Una segunda bobina de 450 vueltas con I2  4 amperes se devana en la porción de acero fundido de la figura 12-52. Su flujo está en oposición al flujo
+producido por la bobina original. El flujo resultante es de 35 000 líneas en dirección contraria a la de las manecillas del reloj. Encuentre la corriente Ii.
+
+![image](https://user-images.githubusercontent.com/84587120/127433792-ad832593-2033-4d36-adf2-f4e1baec6d70.png)
+
+12-11 Circuitos magnéticos en serie-paralelo
+
+25. Si el circuito de la figura 12-53 no tiene espacio y 	3  0.2 mWb, encuentre I
+
+![image](https://user-images.githubusercontent.com/84587120/127433840-8b1987dd-e115-489a-b48f-7103216bc7b5.png)
+
+12-12 Circuitos magnéticos en serie: a partir de NI encontrar 
+
+27. Si NI  644 Av para el núcleo de acero fundido de la figura 12-54, encuentre
+el flujo, 	
+
+![image](https://user-images.githubusercontent.com/84587120/127433889-974336d8-fd18-4340-abcb-69c80da6f4a2.png)
+
+12-13 Fuerza debida a un electroimán
+
+29. Para el relevador de la figura 12-34, si la cara del polo mide 2 cm por 2.5 cm
+y se requiere una fuerza de 2 libras para cerrar el espacio, ¿cuánto flujo se necesita (en webers)?
+
+![image](https://user-images.githubusercontent.com/84587120/127433986-71f183ac-883f-4920-99e3-cf149120cf2c.png)
 
 
 VIDEO:
