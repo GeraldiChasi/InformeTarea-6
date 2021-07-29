@@ -41,6 +41,8 @@ CAPITULO 11:
 11-1 Introducción
 
 1. El capacitor de la figura 11-50 está descargado.
+
+
 ![image](https://user-images.githubusercontent.com/84587120/127429955-1c7501c0-fa10-403d-85b5-2af4ab62b27c.png)
 
 a. ¿Cuál es el voltaje y la corriente del capacitor justo después de que se cierra el interruptor?
@@ -65,6 +67,8 @@ d. ¿Qué se quiere decir con i(0) y con i(0)?
 7. Repita el problema 6 si R  500 , C  25 F y E  45 V, pero ahora calcule y grafique valores en t  0 s, 20, 40, 60, 80 y 100 ms. 
 
 9. Repita el problema 8 para el circuito de la figura 11-52. 
+
+
 ![image](https://user-images.githubusercontent.com/84587120/127430149-8747664c-beda-4e05-89f4-43011b4959a6.png)
 
 11. Determine la constante de tiempo para el circuito de la figura 11-50. ¿Cuánto tiempo (en segundos) tardará el capacitor en cargarse?
@@ -150,8 +154,6 @@ El interruptor es movido primero a la posición de carga y luego a la de descar
 35. Determine los voltajes del capacitor y la corriente de la fuente para el circuito de la figura 11-60 después de que se alcanzó el estado estable. 
 
 ![image](https://user-images.githubusercontent.com/84587120/127431836-55163973-d163-4d56-8fd7-737b341f163b.png)
-
-
 
 
 11-6 Aplicación de temporización RC
