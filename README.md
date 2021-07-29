@@ -184,6 +184,10 @@ estime el tiempo que tarda en subir el voltaje de salida.
 
 ![image](https://user-images.githubusercontent.com/84587120/127432226-91c83a8e-ffd9-4c43-b69c-630a45577b6f.png)
 
+![image](https://user-images.githubusercontent.com/84587120/127436620-2fc760a3-0659-485f-8be4-5b9dd8b1c629.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127436635-ec9e3a99-c025-45aa-9d50-69f6a93d29a6.png)
+
 11-8 Análisis transitorio por computadora 
 
 45. Grafique el voltaje del capacitor para el circuito de la figura 11-2 con E 
@@ -234,10 +238,14 @@ a. ¿Qué área, A1 o A2, utilizaría para calcular la densidad de flujo?
 
 b. Si 	  28 mWb, ¿cuál es la densidad de flujo en teslas?
 
+![image](https://user-images.githubusercontent.com/84587120/127436540-b127cd93-179e-4dda-9b45-c320d9dfd2bc.png)
+
 3. El toroide de la figura 12-42 tiene una sección transversal circular y 	  628
 Wb. Si r1  8 cm y r2  12 cm, ¿cuál es la densidad de flujo en teslas?
 
 ![image](https://user-images.githubusercontent.com/84587120/127433193-44bc2d6c-b714-4330-a75b-878346d0d4be.png)
+
+
 
 12-5 Espacios de aire, desbordamiento y núcleos laminados
 
@@ -247,10 +255,16 @@ un factor de apilamiento de 0.85 y B  1.45 T, ¿qué valor tiene 	 en webers?
 
 ![image](https://user-images.githubusercontent.com/84587120/127433256-0a5699e0-287d-4e2b-b200-7cadb7b270fe.png)
 
+![image](https://user-images.githubusercontent.com/84587120/127436503-109459e7-e9fd-4011-b360-757687024669.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127436515-a4ee7e05-8d47-43d5-9a58-4edded03cfd1.png)
+
 7. Para la sección del núcleo de hierro de la figura 12-45, si 	1  12 mWb y 
 	3  2 mWb, ¿cuánto vale B2?
  
  ![image](https://user-images.githubusercontent.com/84587120/127433308-20d387b4-076d-4b96-bdf0-620f199a648a.png)
+ 
+ ![image](https://user-images.githubusercontent.com/84587120/127436479-50a55a30-3227-45d6-8dd0-7b154c91d9e1.png)
 
 12-8 Intensidad de campo magnético y curvas de magnetización
 
@@ -258,11 +272,16 @@ un factor de apilamiento de 0.85 y B  1.45 T, ¿qué valor tiene 	 en webers?
 de 1200 Av/m. ¿Qué valor tiene 	 si el núcleo es de hierro fundido? ¿Si es de
 acero fundido? ¿Si es de hoja de acero con FA  0.94?
 
+![image](https://user-images.githubusercontent.com/84587120/127436440-06561ae9-f3da-4c4b-8300-c5300a228a1c.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127436453-b9458430-18c8-43a0-bedb-a3c17aa50c17.png)
 
 11. Considere una vez más la figura 12-42. Si I  10 A, N  40 vueltas, r1 
 5 cm y r2  7 cm, ¿qué valor tiene H en amperes-vuelta por metro?
 
 ![image](https://user-images.githubusercontent.com/84587120/127433388-965f15d2-3a67-491b-ba3a-7d54c084057d.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127436420-f958bd0d-1bf4-46bb-93e6-3706d6ace3fb.png)
 
 12-9 Ley de circuitos de Ampère
 
@@ -283,7 +302,7 @@ abajo. Escriba las ecuaciones de la ley de Ampère para este caso.
 figura 12-48. Encuentre la corriente para 	  0.128 mWb. No tome en cuenta
 el desbordamiento. 
 
-![image](https://user-images.githubusercontent.com/84587120/127433632-7a7302c6-5738-4c11-9479-3101c443409f.png)
+![image](https://user-images.githubusercontent.com/84587120/127436368-f00cd9eb-400d-4711-9a12-f2222fb2abb1.png)
 
 19. El núcleo de hierro fundido de la figura 12-49 mide 1 cm  1.5 cm, a  0.3
 mm, la densidad de flujo del espacio de aire es de 0.426 T y N  600 vueltas.
@@ -292,21 +311,33 @@ desbordamiento, encuentre la corriente I.
 
 ![image](https://user-images.githubusercontent.com/84587120/127433668-5627b3c6-6d69-428f-b6b9-c66b914ee6f2.png)
 
+![image](https://user-images.githubusercontent.com/84587120/127436302-275e76a8-d2c5-4ce0-993e-ee6548803da1.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127436321-bc2ada7f-4f30-4896-9bb4-047921985368.png)
+
 21. Para el circuito de la figura 12-51, 	  30  Wb y N  2000 vueltas. No
 tome en cuenta el desbordamiento y encuentre la corriente I
 
 ![image](https://user-images.githubusercontent.com/84587120/127433710-06f12f48-6bfe-4a57-8ddc-de0ba83ed277.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127436276-479b21e5-b7ae-4d48-8b90-58cbec4873bb.png)
 
 23. Una segunda bobina de 450 vueltas con I2  4 amperes se devana en la porción de acero fundido de la figura 12-52. Su flujo está en oposición al flujo
 producido por la bobina original. El flujo resultante es de 35 000 líneas en dirección contraria a la de las manecillas del reloj. Encuentre la corriente Ii.
 
 ![image](https://user-images.githubusercontent.com/84587120/127433792-ad832593-2033-4d36-adf2-f4e1baec6d70.png)
 
+![image](https://user-images.githubusercontent.com/84587120/127436214-e98b173d-f707-4f64-a627-4c8971e0cf43.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127436234-0c9addea-339b-4f10-9afb-7d7a3387e8da.png)
+
 12-11 Circuitos magnéticos en serie-paralelo
 
 25. Si el circuito de la figura 12-53 no tiene espacio y 	3  0.2 mWb, encuentre I
 
 ![image](https://user-images.githubusercontent.com/84587120/127433840-8b1987dd-e115-489a-b48f-7103216bc7b5.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127436184-f8a3f69c-55a7-4afd-b553-36e40b2634c6.png)
 
 12-12 Circuitos magnéticos en serie: a partir de NI encontrar 
 
@@ -315,6 +346,10 @@ el flujo,
 
 ![image](https://user-images.githubusercontent.com/84587120/127433889-974336d8-fd18-4340-abcb-69c80da6f4a2.png)
 
+![image](https://user-images.githubusercontent.com/84587120/127436129-11818df0-e940-49d3-9eb2-4060c2cd8d27.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127436149-81b45990-aed1-4a01-ab8b-faa3c3a4e3f8.png)
+
 12-13 Fuerza debida a un electroimán
 
 29. Para el relevador de la figura 12-34, si la cara del polo mide 2 cm por 2.5 cm
@@ -322,6 +357,7 @@ y se requiere una fuerza de 2 libras para cerrar el espacio, ¿cuánto flujo se 
 
 ![image](https://user-images.githubusercontent.com/84587120/127433986-71f183ac-883f-4920-99e3-cf149120cf2c.png)
 
+![image](https://user-images.githubusercontent.com/84587120/127436095-2fa999d4-248b-492d-941d-bbc9a808fedb.png)
 
 VIDEO:
 
