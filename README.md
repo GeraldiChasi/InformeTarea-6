@@ -58,8 +58,7 @@ RECOMENDACIONES
 
 BIBLIOGRAFÍA:
 
-*Análisis de Circuitos: Teoría y Práctica ( Allan H. Robbins, Wilhelm C. Miller) Capítulo 3y4
-
+Miller, A. H. (2007). Análisis de circuitos. Teoría y práctica. México: CENGAGE Learning.
 
 
 
