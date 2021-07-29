@@ -47,20 +47,37 @@ CAPITULO 11:
 
 a. ¿Cuál es el voltaje y la corriente del capacitor justo después de que se cierra el interruptor?
 
+![image](https://user-images.githubusercontent.com/84427371/127436010-dd2cbe0b-cedb-4cf5-8ffc-f076635eca07.png)
+
+
 b. ¿Cuál es el voltaje y la corriente del capacitor después de que está totalmente cargado?
+
+![image](https://user-images.githubusercontent.com/84427371/127436029-a5ab049d-7ed8-482c-8f82-5c711735cd94.png)
 
 3. a. ¿A qué se parece un capacitor descargado en el instante que se conecta el
 interruptor?
 
+Cortocircuito
+
 b. ¿Cómo se ve un capacitor cargado en el instante que se acciona el interruptor?
+
+Fuente de voltaje
 
 c. ¿A qué se parece un capacitor en estado estable de cd?
 
+Circuito abierto
+
 d. ¿Qué se quiere decir con i(0) y con i(0)?
+
+![image](https://user-images.githubusercontent.com/84427371/127436088-195e4384-dd1e-4ec9-82da-24e1d2921514.png)
+
 
 5. Para un circuito de carga, R  5.6 k y vC(0)  0 V. Si i(0)  2.7 mA,
 
 ¿cuál es el valor de E?
+
+![image](https://user-images.githubusercontent.com/84427371/127436127-867891d2-7e03-4343-a4ab-2955e14b4b36.png)
+
 
 11-2 Ecuaciones de carga del capacitor
 
@@ -71,14 +88,32 @@ d. ¿Qué se quiere decir con i(0) y con i(0)?
 
 ![image](https://user-images.githubusercontent.com/84587120/127430149-8747664c-beda-4e05-89f4-43011b4959a6.png)
 
+![image](https://user-images.githubusercontent.com/84427371/127436219-641a9ec9-6d10-408e-add8-124bd629aa71.png)
+
+![image](https://user-images.githubusercontent.com/84427371/127436422-e3f6aa12-46c0-45d4-bfdf-4eceefda15af.png)
+
+![image](https://user-images.githubusercontent.com/84427371/127436442-f1b9e27d-ac0d-4bf2-9fc4-e986572c4df5.png)
+
+![image](https://user-images.githubusercontent.com/84427371/127436460-ec7a6a82-a325-4f42-bc24-a98157c65462.png)
+
+
 11. Determine la constante de tiempo para el circuito de la figura 11-50. ¿Cuánto tiempo (en segundos) tardará el capacitor en cargarse?
 
 ![image](https://user-images.githubusercontent.com/84587120/127430369-a6dfaa85-666e-4944-af29-b0cc54c1273e.png)
+
+![image](https://user-images.githubusercontent.com/84427371/127436485-5325739a-724e-4123-8a75-6bfbebdb754c.png)
+
 
 13. Para la figura 11-50, el voltaje del capacitor con el interruptor abierto es de 0 V. Cierre el interruptor en t  0 y determine el voltaje y corriente del capacitor en t  0, 40, 80, 120, 160 y 200 s, use las curvas de la constante de
 tiempo universal. 
 
 ![image](https://user-images.githubusercontent.com/84587120/127430369-a6dfaa85-666e-4944-af29-b0cc54c1273e.png)
+
+![image](https://user-images.githubusercontent.com/84427371/127436513-04b75de0-2469-442b-8f24-15c4f80ad9e8.png)
+
+![image](https://user-images.githubusercontent.com/84427371/127436528-517bd4ae-72fb-4db9-912e-a02a0b3f3064.png)
+
+![image](https://user-images.githubusercontent.com/84427371/127436541-05f6f2c6-9948-47d8-badb-f5965fca7542.png)
 
 
 15. Para la figura 11-2, la corriente se eleva a 3 mA cuando el interruptor se cierra. El capacitor tarda 1 s para cargarse. Si E  75 V, determine R y C. 
@@ -120,10 +155,17 @@ e. Grafique los resultados del inciso (d) con el eje del tiempo con escalas de s
 
 25. Un capacitor de 4.7 F se carga a 43 volts. Si un resistor de 39 k se conecta al capacitor, ¿cuál es el voltaje, 200 ms después de que se conecta el resistor?
 
+![image](https://user-images.githubusercontent.com/84427371/127436596-91e7ddbb-f9ea-46c8-b99f-9cc46261a7df.png)
 
 27. Para la figura 11-54, sea E  200 V, R2  1 k y C  0.5 F. Después de que el capacitor está totalmente cargado en la posición 1, el interruptor es movido a la posición 2. 
 
 ![image](https://user-images.githubusercontent.com/84587120/127430884-6dd4fa48-c17f-45c3-b53f-b82abc4a4214.png)
+
+![image](https://user-images.githubusercontent.com/84427371/127436646-b33cdedc-7dec-4f13-adf7-7af45d22ee1c.png)
+
+![image](https://user-images.githubusercontent.com/84427371/127436662-3cc9be2b-2500-47da-9399-cdfa63a2122f.png)
+
+
 
 a. ¿Qué voltaje tiene el capacitor inmediatamente después de que el interruptor es movido a la posición 2? ¿Cuál es la corriente? 
 
@@ -184,10 +226,6 @@ estime el tiempo que tarda en subir el voltaje de salida.
 
 ![image](https://user-images.githubusercontent.com/84587120/127432226-91c83a8e-ffd9-4c43-b69c-630a45577b6f.png)
 
-![image](https://user-images.githubusercontent.com/84587120/127436620-2fc760a3-0659-485f-8be4-5b9dd8b1c629.png)
-
-![image](https://user-images.githubusercontent.com/84587120/127436635-ec9e3a99-c025-45aa-9d50-69f6a93d29a6.png)
-
 11-8 Análisis transitorio por computadora 
 
 45. Grafique el voltaje del capacitor para el circuito de la figura 11-2 con E 
@@ -238,14 +276,10 @@ a. ¿Qué área, A1 o A2, utilizaría para calcular la densidad de flujo?
 
 b. Si 	  28 mWb, ¿cuál es la densidad de flujo en teslas?
 
-![image](https://user-images.githubusercontent.com/84587120/127436540-b127cd93-179e-4dda-9b45-c320d9dfd2bc.png)
-
 3. El toroide de la figura 12-42 tiene una sección transversal circular y 	  628
 Wb. Si r1  8 cm y r2  12 cm, ¿cuál es la densidad de flujo en teslas?
 
 ![image](https://user-images.githubusercontent.com/84587120/127433193-44bc2d6c-b714-4330-a75b-878346d0d4be.png)
-
-
 
 12-5 Espacios de aire, desbordamiento y núcleos laminados
 
@@ -255,16 +289,10 @@ un factor de apilamiento de 0.85 y B  1.45 T, ¿qué valor tiene 	 en webers?
 
 ![image](https://user-images.githubusercontent.com/84587120/127433256-0a5699e0-287d-4e2b-b200-7cadb7b270fe.png)
 
-![image](https://user-images.githubusercontent.com/84587120/127436503-109459e7-e9fd-4011-b360-757687024669.png)
-
-![image](https://user-images.githubusercontent.com/84587120/127436515-a4ee7e05-8d47-43d5-9a58-4edded03cfd1.png)
-
 7. Para la sección del núcleo de hierro de la figura 12-45, si 	1  12 mWb y 
 	3  2 mWb, ¿cuánto vale B2?
  
  ![image](https://user-images.githubusercontent.com/84587120/127433308-20d387b4-076d-4b96-bdf0-620f199a648a.png)
- 
- ![image](https://user-images.githubusercontent.com/84587120/127436479-50a55a30-3227-45d6-8dd0-7b154c91d9e1.png)
 
 12-8 Intensidad de campo magnético y curvas de magnetización
 
@@ -272,16 +300,11 @@ un factor de apilamiento de 0.85 y B  1.45 T, ¿qué valor tiene 	 en webers?
 de 1200 Av/m. ¿Qué valor tiene 	 si el núcleo es de hierro fundido? ¿Si es de
 acero fundido? ¿Si es de hoja de acero con FA  0.94?
 
-![image](https://user-images.githubusercontent.com/84587120/127436440-06561ae9-f3da-4c4b-8300-c5300a228a1c.png)
-
-![image](https://user-images.githubusercontent.com/84587120/127436453-b9458430-18c8-43a0-bedb-a3c17aa50c17.png)
 
 11. Considere una vez más la figura 12-42. Si I  10 A, N  40 vueltas, r1 
 5 cm y r2  7 cm, ¿qué valor tiene H en amperes-vuelta por metro?
 
 ![image](https://user-images.githubusercontent.com/84587120/127433388-965f15d2-3a67-491b-ba3a-7d54c084057d.png)
-
-![image](https://user-images.githubusercontent.com/84587120/127436420-f958bd0d-1bf4-46bb-93e6-3706d6ace3fb.png)
 
 12-9 Ley de circuitos de Ampère
 
@@ -302,7 +325,7 @@ abajo. Escriba las ecuaciones de la ley de Ampère para este caso.
 figura 12-48. Encuentre la corriente para 	  0.128 mWb. No tome en cuenta
 el desbordamiento. 
 
-![image](https://user-images.githubusercontent.com/84587120/127436368-f00cd9eb-400d-4711-9a12-f2222fb2abb1.png)
+![image](https://user-images.githubusercontent.com/84587120/127433632-7a7302c6-5738-4c11-9479-3101c443409f.png)
 
 19. El núcleo de hierro fundido de la figura 12-49 mide 1 cm  1.5 cm, a  0.3
 mm, la densidad de flujo del espacio de aire es de 0.426 T y N  600 vueltas.
@@ -311,33 +334,21 @@ desbordamiento, encuentre la corriente I.
 
 ![image](https://user-images.githubusercontent.com/84587120/127433668-5627b3c6-6d69-428f-b6b9-c66b914ee6f2.png)
 
-![image](https://user-images.githubusercontent.com/84587120/127436302-275e76a8-d2c5-4ce0-993e-ee6548803da1.png)
-
-![image](https://user-images.githubusercontent.com/84587120/127436321-bc2ada7f-4f30-4896-9bb4-047921985368.png)
-
 21. Para el circuito de la figura 12-51, 	  30  Wb y N  2000 vueltas. No
 tome en cuenta el desbordamiento y encuentre la corriente I
 
 ![image](https://user-images.githubusercontent.com/84587120/127433710-06f12f48-6bfe-4a57-8ddc-de0ba83ed277.png)
-
-![image](https://user-images.githubusercontent.com/84587120/127436276-479b21e5-b7ae-4d48-8b90-58cbec4873bb.png)
 
 23. Una segunda bobina de 450 vueltas con I2  4 amperes se devana en la porción de acero fundido de la figura 12-52. Su flujo está en oposición al flujo
 producido por la bobina original. El flujo resultante es de 35 000 líneas en dirección contraria a la de las manecillas del reloj. Encuentre la corriente Ii.
 
 ![image](https://user-images.githubusercontent.com/84587120/127433792-ad832593-2033-4d36-adf2-f4e1baec6d70.png)
 
-![image](https://user-images.githubusercontent.com/84587120/127436214-e98b173d-f707-4f64-a627-4c8971e0cf43.png)
-
-![image](https://user-images.githubusercontent.com/84587120/127436234-0c9addea-339b-4f10-9afb-7d7a3387e8da.png)
-
 12-11 Circuitos magnéticos en serie-paralelo
 
 25. Si el circuito de la figura 12-53 no tiene espacio y 	3  0.2 mWb, encuentre I
 
 ![image](https://user-images.githubusercontent.com/84587120/127433840-8b1987dd-e115-489a-b48f-7103216bc7b5.png)
-
-![image](https://user-images.githubusercontent.com/84587120/127436184-f8a3f69c-55a7-4afd-b553-36e40b2634c6.png)
 
 12-12 Circuitos magnéticos en serie: a partir de NI encontrar 
 
@@ -346,10 +357,6 @@ el flujo,
 
 ![image](https://user-images.githubusercontent.com/84587120/127433889-974336d8-fd18-4340-abcb-69c80da6f4a2.png)
 
-![image](https://user-images.githubusercontent.com/84587120/127436129-11818df0-e940-49d3-9eb2-4060c2cd8d27.png)
-
-![image](https://user-images.githubusercontent.com/84587120/127436149-81b45990-aed1-4a01-ab8b-faa3c3a4e3f8.png)
-
 12-13 Fuerza debida a un electroimán
 
 29. Para el relevador de la figura 12-34, si la cara del polo mide 2 cm por 2.5 cm
@@ -357,7 +364,6 @@ y se requiere una fuerza de 2 libras para cerrar el espacio, ¿cuánto flujo se 
 
 ![image](https://user-images.githubusercontent.com/84587120/127433986-71f183ac-883f-4920-99e3-cf149120cf2c.png)
 
-![image](https://user-images.githubusercontent.com/84587120/127436095-2fa999d4-248b-492d-941d-bbc9a808fedb.png)
 
 VIDEO:
 
