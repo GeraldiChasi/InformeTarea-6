@@ -226,6 +226,10 @@ estime el tiempo que tarda en subir el voltaje de salida.
 
 ![image](https://user-images.githubusercontent.com/84587120/127432226-91c83a8e-ffd9-4c43-b69c-630a45577b6f.png)
 
+![image](https://user-images.githubusercontent.com/84587120/127437444-a8737543-ceed-474c-90e3-585fa1b0d264.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127437465-eda967d0-104c-44b9-94a7-4b6330dffeab.png)
+
 11-8 Análisis transitorio por computadora 
 
 45. Grafique el voltaje del capacitor para el circuito de la figura 11-2 con E 
@@ -272,6 +276,8 @@ CAPITULO 12:
 
 ![image](https://user-images.githubusercontent.com/84587120/127433171-dbe3e106-4c92-431c-9e0b-86a17d92fc5e.png)
 
+![image](https://user-images.githubusercontent.com/84587120/127437382-05b886e6-a59e-4f09-845b-978cbb05376f.png)
+
 a. ¿Qué área, A1 o A2, utilizaría para calcular la densidad de flujo?
 
 b. Si 	  28 mWb, ¿cuál es la densidad de flujo en teslas?
@@ -281,6 +287,8 @@ b. Si 	  28 mWb, ¿cuál es la densidad de flujo en teslas?
 
 ![image](https://user-images.githubusercontent.com/84587120/127433193-44bc2d6c-b714-4330-a75b-878346d0d4be.png)
 
+
+
 12-5 Espacios de aire, desbordamiento y núcleos laminados
 
 5. Si la sección del núcleo en la figura 12-43 que mide 0.025 m por 0.04 m, tiene
@@ -289,10 +297,16 @@ un factor de apilamiento de 0.85 y B  1.45 T, ¿qué valor tiene 	 en webers?
 
 ![image](https://user-images.githubusercontent.com/84587120/127433256-0a5699e0-287d-4e2b-b200-7cadb7b270fe.png)
 
+![image](https://user-images.githubusercontent.com/84587120/127437320-a99871b0-663c-428f-9b9b-16d0dc56bb17.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127437332-bf201225-2b44-4a1a-8a48-23ff20d7f543.png)
+
 7. Para la sección del núcleo de hierro de la figura 12-45, si 	1  12 mWb y 
 	3  2 mWb, ¿cuánto vale B2?
  
  ![image](https://user-images.githubusercontent.com/84587120/127433308-20d387b4-076d-4b96-bdf0-620f199a648a.png)
+ 
+ ![image](https://user-images.githubusercontent.com/84587120/127437281-5c775824-b385-498c-9718-269a2c3c32cf.png)
 
 12-8 Intensidad de campo magnético y curvas de magnetización
 
@@ -300,11 +314,16 @@ un factor de apilamiento de 0.85 y B  1.45 T, ¿qué valor tiene 	 en webers?
 de 1200 Av/m. ¿Qué valor tiene 	 si el núcleo es de hierro fundido? ¿Si es de
 acero fundido? ¿Si es de hoja de acero con FA  0.94?
 
+![image](https://user-images.githubusercontent.com/84587120/127437238-09cf5ce9-3d85-4592-b86a-70796bf74e41.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127437260-cf516c7e-7139-45bd-86cd-7b28faa204ef.png)
 
 11. Considere una vez más la figura 12-42. Si I  10 A, N  40 vueltas, r1 
 5 cm y r2  7 cm, ¿qué valor tiene H en amperes-vuelta por metro?
 
 ![image](https://user-images.githubusercontent.com/84587120/127433388-965f15d2-3a67-491b-ba3a-7d54c084057d.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127437220-4bba5e30-c068-4716-8476-261cb0a51753.png)
 
 12-9 Ley de circuitos de Ampère
 
@@ -327,6 +346,8 @@ el desbordamiento.
 
 ![image](https://user-images.githubusercontent.com/84587120/127433632-7a7302c6-5738-4c11-9479-3101c443409f.png)
 
+![image](https://user-images.githubusercontent.com/84587120/127437178-6203a1fe-5c70-41a3-a34a-8efdc2d33326.png)
+
 19. El núcleo de hierro fundido de la figura 12-49 mide 1 cm  1.5 cm, a  0.3
 mm, la densidad de flujo del espacio de aire es de 0.426 T y N  600 vueltas.
 Los extremos de la pieza tienen forma semicircular. Tomando en cuenta el
@@ -334,21 +355,34 @@ desbordamiento, encuentre la corriente I.
 
 ![image](https://user-images.githubusercontent.com/84587120/127433668-5627b3c6-6d69-428f-b6b9-c66b914ee6f2.png)
 
+![image](https://user-images.githubusercontent.com/84587120/127437135-fc5f7466-66f5-45b3-aedf-49f9c2e61897.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127437145-071cac8b-f41e-48d2-8919-b0fc32f1e76c.png)
+
 21. Para el circuito de la figura 12-51, 	  30  Wb y N  2000 vueltas. No
 tome en cuenta el desbordamiento y encuentre la corriente I
 
 ![image](https://user-images.githubusercontent.com/84587120/127433710-06f12f48-6bfe-4a57-8ddc-de0ba83ed277.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127437104-cd4ae6c1-4de9-49a7-b9ab-07ab283ef2ba.png)
 
 23. Una segunda bobina de 450 vueltas con I2  4 amperes se devana en la porción de acero fundido de la figura 12-52. Su flujo está en oposición al flujo
 producido por la bobina original. El flujo resultante es de 35 000 líneas en dirección contraria a la de las manecillas del reloj. Encuentre la corriente Ii.
 
 ![image](https://user-images.githubusercontent.com/84587120/127433792-ad832593-2033-4d36-adf2-f4e1baec6d70.png)
 
+![image](https://user-images.githubusercontent.com/84587120/127437046-11073494-c9c3-4a41-8ae4-54ff4483279f.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127437065-5d08fdac-d502-4448-ac76-d02a06a39706.png)
+
 12-11 Circuitos magnéticos en serie-paralelo
 
 25. Si el circuito de la figura 12-53 no tiene espacio y 	3  0.2 mWb, encuentre I
 
 ![image](https://user-images.githubusercontent.com/84587120/127433840-8b1987dd-e115-489a-b48f-7103216bc7b5.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127437022-4827a9c3-4277-4b39-9a41-e0b99d11c832.png)
+
 
 12-12 Circuitos magnéticos en serie: a partir de NI encontrar 
 
@@ -357,13 +391,16 @@ el flujo,
 
 ![image](https://user-images.githubusercontent.com/84587120/127433889-974336d8-fd18-4340-abcb-69c80da6f4a2.png)
 
+![image](https://user-images.githubusercontent.com/84587120/127436975-db89119e-0017-4ba6-ad7a-45fec72399d4.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127437002-9ad59b5e-17d7-4cda-b1b8-d574f52b19f3.png)
+
 12-13 Fuerza debida a un electroimán
 
 29. Para el relevador de la figura 12-34, si la cara del polo mide 2 cm por 2.5 cm
 y se requiere una fuerza de 2 libras para cerrar el espacio, ¿cuánto flujo se necesita (en webers)?
 
-![image](https://user-images.githubusercontent.com/84587120/127433986-71f183ac-883f-4920-99e3-cf149120cf2c.png)
-
+![image](https://user-images.githubusercontent.com/84587120/127436942-c1d99d13-27ea-4d98-8160-0fa55676151f.png)
 
 VIDEO:
 
