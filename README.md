@@ -8,13 +8,13 @@ OBJETIVOS:
 
 OBJETIVO GENERAL:
 
--Aprender, conceptos fundamentales sobre Teorema de redes y Capacitancia e inductancia en un circuito electrico , poner en practica estos conceptos a partir de la realización de problemas y ejercicios planteados de acuerdo al libro (Analisis de Circuitos: Teoria y Practica de Allan H. Robbins, Wilhelm C. Miller).
+-Aprender, conceptos fundamentales sobre el tema Carga descarga del capacitor y circuitos formadores de onda simples , Magnetismo y circuitos magnéticos , asi mismo poner en practica estos conceptos a partir de la realización de problemas y ejercicios planteados de acuerdo al libro (Analisis de Circuitos: Teoria y Practica de Allan H. Robbins, Wilhelm C. Miller).
 
 OBJETIVOS ESPECÍFICOS :
 
--Examinar la teoría del capítulo 9 referente al tema Teoremas de redes.
+-Examinar la teoría del capítulo 11 referente al tema Carga, descarga del capacitor y circuitos formadores de onda simples.
 
--Analizar la teoría del capítulo 10 referente al tema Capacitores y capacitancia.
+-Analizar la teoría del capítulo 12 referente al tema Magnetismo y circuitos magnéticos.
 
 MARCO TEÓRICO (RESUMEN)
 
@@ -407,11 +407,24 @@ VIDEO:
 
 CONCLUSIONES 
 
+Despues de haber analizado la teoria y practica de los temas ya mencionados pudimos llegar a la conclusion de:
 
+-Los transitorios ocurren en los circuitos capacitivos y en los inductivos. En los
+primeros ocurren debido a que el voltaje en el capacitor no puede cambiar de manera
+instantánea; en los segundos ocurren debido a que la corriente del inductor no
+puede cambiar en forma instantánea.
+
+-El magnetismo se refiere a la fuerza que actúa entre los imanes y los materiales
+magnéticos. Por ejemplo, se sabe que los imanes atraen partículas de hierro,
+causan deflexión en las agujas de las brújulas, atraen o repelen a otros imanes,
+etc. Esta fuerza actúa a distancia y sin la necesidad de que haya contacto físico.
+La región donde se siente la fuerza se llama el “campo del imán” o simplemente
+su campo magnético. Entonces, un campo magnético es un campo de fuerza.
 
 
 RECOMENDACIONES
 
+-
 
 
 BIBLIOGRAFÍA:
