@@ -120,18 +120,29 @@ tiempo universal.
 
 ![image](https://user-images.githubusercontent.com/84587120/127430610-3eedb2be-b04b-4414-92ba-9acde06fd202.png)
 
+![image](https://user-images.githubusercontent.com/84427371/127594231-506cf530-6e61-4a75-be55-e99bf9a9f720.png)
+
+
 17. Para la figura 11-2, determine E, R y C si el capacitor tarda 5 ms en cargarse, la corriente en 1 constante de tiempo después de que el interruptor se cierra es de 3.679 mA, y el capacitor se carga a 45 volts en estado estable. 
 
 ![image](https://user-images.githubusercontent.com/84587120/127430610-3eedb2be-b04b-4414-92ba-9acde06fd202.png)
+
+![image](https://user-images.githubusercontent.com/84427371/127596824-d3388425-e57f-42f3-b473-02e3535deb29.png)
+
+![image](https://user-images.githubusercontent.com/84427371/127596907-23b93a3b-fb90-404c-a7e3-bd6def14d4f5.png)
+
+![image](https://user-images.githubusercontent.com/84427371/127596949-e0c9d855-d30a-4c6d-b634-ea3b15a9ac6e.png)
+
 
 19. El capacitor de la figura 11-50 tiene un voltaje inicial. Si V0  10 V, ¿cuál es
 la corriente justo después de que el interruptor se ha cerrado? 
 
 ![image](https://user-images.githubusercontent.com/84587120/127430708-43d4a19e-abd1-45c6-b8df-b8ebd30a6846.png)
 
-21. Para el capacitor de la figura 11-51, V0  30 V.
+![image](https://user-images.githubusercontent.com/84427371/127596975-cb2a3f91-181b-4f49-91ff-2a16220b7f1c.png)
 
-![image](https://user-images.githubusercontent.com/84587120/127430764-eda28d03-9089-43fb-a93d-d5439bda3242.png)
+
+21. Para el capacitor de la figura 11-51, V0  30 V.
 
 a. Determine la expresión para el voltaje de carga vC.
 
@@ -139,9 +150,14 @@ b. Determine la expresión para la corriente iC.
 
 c. Grafique vC e iC.
 
-23. Para el circuito de la figura 11-53, suponga que el capacitor está cargado a 50 V antes de que el interruptor se cierre.
+![image](https://user-images.githubusercontent.com/84587120/127430764-eda28d03-9089-43fb-a93d-d5439bda3242.png)
 
-![image](https://user-images.githubusercontent.com/84587120/127430825-58360dec-b286-4be0-a7d8-2bf40c691572.png)
+![image](https://user-images.githubusercontent.com/84427371/127597022-062d0a3b-e20f-46e8-8020-5572313a9468.png)
+
+![image](https://user-images.githubusercontent.com/84427371/127597104-cf072ce5-cfca-49f8-89e7-56149e96db2c.png)
+
+
+23. Para el circuito de la figura 11-53, suponga que el capacitor está cargado a 50 V antes de que el interruptor se cierre.
 
 a. Determine la ecuación para el voltaje de descarga vC.
 
@@ -150,6 +166,19 @@ b. Determine la ecuación para la corriente de descarga iC.
 c. Determine la constante de tiempo del circuito. 
 
 d. Calcule vC e iC en t  0 s, t  t, 2, 3, 4, y 5t.
+
+![image](https://user-images.githubusercontent.com/84587120/127430825-58360dec-b286-4be0-a7d8-2bf40c691572.png)
+
+![image](https://user-images.githubusercontent.com/84427371/127597467-9e105b53-f5de-4890-b7b5-15218b4bbd37.png)
+
+![image](https://user-images.githubusercontent.com/84427371/127597518-40a555be-e7d9-44bd-bb9a-c5c4b09713c4.png)
+
+![image](https://user-images.githubusercontent.com/84427371/127597536-04b63608-22de-4441-9c86-9277e19b53bf.png)
+
+![image](https://user-images.githubusercontent.com/84427371/127597557-f2a09dcf-519f-4d19-92ab-0fe9564c02b7.png)
+
+
+
 
 e. Grafique los resultados del inciso (d) con el eje del tiempo con escalas de segundos y de constantes de tiempo.
 
@@ -185,6 +214,17 @@ Problemas 375
 
 ![image](https://user-images.githubusercontent.com/84587120/127431259-17330d01-c15f-4d29-9313-110d10804272.png)
 
+![image](https://user-images.githubusercontent.com/84427371/127597849-9ca3837b-111d-45ff-98bf-0756fb0ebf4b.png)
+
+![image](https://user-images.githubusercontent.com/84427371/127597949-1ffcc646-20ea-4e81-97e6-e5f19bcc4c01.png)
+
+![image](https://user-images.githubusercontent.com/84427371/127597987-c8a5182d-de07-4f21-95b8-e2e0f0275a2a.png)
+
+![image](https://user-images.githubusercontent.com/84427371/127598020-4f1a9f7f-dd3d-45c9-b3bf-564743e4e9dd.png)
+
+![image](https://user-images.githubusercontent.com/84427371/127598353-7e2d6c68-7db1-44e7-acbc-c5ef068bf3c1.png)
+
+
 33. Para el circuito de la figura 11-54, el capacitor está inicialmente descargado.
  
 El interruptor es movido primero a la posición de carga y luego a la de descarga, proporcionando la corriente que se muestra en la figura 11-58. El capacitor se carga totalmente en 12.5 s. Determine E, R2 y C. 
@@ -193,9 +233,14 @@ El interruptor es movido primero a la posición de carga y luego a la de descar
 
 ![image](https://user-images.githubusercontent.com/84587120/127431447-5e51f9c2-bd31-49f1-b963-a41eede2f21c.png)
 
+![image](https://user-images.githubusercontent.com/84427371/127598389-b6b892a9-af0c-4f9a-ae97-edc368ea8416.png)
+
+
 35. Determine los voltajes del capacitor y la corriente de la fuente para el circuito de la figura 11-60 después de que se alcanzó el estado estable. 
 
 ![image](https://user-images.githubusercontent.com/84587120/127431836-55163973-d163-4d56-8fd7-737b341f163b.png)
+
+![image](https://user-images.githubusercontent.com/84427371/127598454-08d7479f-03f1-421b-a58b-862f22b2168d.png)
 
 
 11-6 Aplicación de temporización RC
@@ -205,6 +250,8 @@ de 5 V, R  750 k y la alarma es activada en 15 s cuando vC  3.8 V, ¿qué
 valor tiene C?
 
 ![image](https://user-images.githubusercontent.com/84587120/127432037-1a154069-593c-4b3d-a15f-d454ee7b39f1.png)
+
+![image](https://user-images.githubusercontent.com/84427371/127598509-b61cb82a-faf3-45a3-b78d-b665db205bb7.png)
 
 39. Considere la forma de onda de la figura 11-62.
 
@@ -216,10 +263,15 @@ b. ¿Cuál es el ciclo de trabajo?
 
 c. ¿Cuál es el VRP?
 
+![image](https://user-images.githubusercontent.com/84427371/127598609-72d4bdb6-82ee-4e36-b2df-9c05d26d2a50.png)
+
+
 41. Determine el tiempo de subida, de bajada y el ancho de pulso para el pulso de
 la figura 11-64.
 
 ![image](https://user-images.githubusercontent.com/84587120/127432162-c93e6445-0d38-47b7-b266-08580685af6d.png)
+
+![image](https://user-images.githubusercontent.com/84427371/127598633-3314681a-7ccb-44c5-bd46-fb19ce99f4cc.png)
 
 43. Se aplica un escalón al circuito de la figura 11-66. Si R  150 y C  20 pF,
 estime el tiempo que tarda en subir el voltaje de salida. 
