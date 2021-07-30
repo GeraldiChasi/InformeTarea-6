@@ -282,42 +282,6 @@ estime el tiempo que tarda en subir el voltaje de salida.
 
 ![image](https://user-images.githubusercontent.com/84587120/127437465-eda967d0-104c-44b9-94a7-4b6330dffeab.png)
 
-11-8 Análisis transitorio por computadora 
-
-45. Grafique el voltaje del capacitor para el circuito de la figura 11-2 con E 
-25 V, R  40 , V0  0 V y C  400 F (véase la Nota 1). Fije los valores
-para la escala de la gráfica en t  20 ms, utilice el cursor. Compare los resultados que obtuvo con la ecuación 11-3 o la curva de la figura 11-15(a).
-
-![image](https://user-images.githubusercontent.com/84587120/127432372-bd1edb4c-5d2e-4b08-bb4e-0005c597341f.png)
-
-47. Considere la figura 11-57. Use Multisim y suponga condiciones iniciales de
-cero para ambos capacitores. Haga lo siguiente (véase la Nota 3).
-
-![image](https://user-images.githubusercontent.com/84587120/127432441-8a3899a3-b232-41ea-8e8b-6ff7b1c79cee.png)
-
-a. Haga una gráfica del voltaje del capacitor para el circuito de la figura 
-11-57 y encuentre vC en t  4 ms. 
-
-b. Determine la corriente en el resistor de 4  en t  3.5 ms.
-
-49. Use PSpice para graficar el voltaje y la corriente del capacitor de un circuito
-de carga con E  25 V, R  40 , V0  0 V y C  400 F. Determine los
-valores de la escala de la gráfica con el cursor. Use las ecuaciones 11-3 y 11-5
-o las curvas de la figura 11-15 para comparar los resultados que obtuvo. 
-
-![image](https://user-images.githubusercontent.com/84587120/127432558-1fee57a8-ff9f-4a1f-8258-8884e5ea73a8.png)
-
-51. El interruptor de la figura 11-69 está cerrado en t  0 s. Use PSpice para
-hacer una gráfica de las formas de onda del voltaje y la corriente. Utilice el
-cursor para determinar vC e iC en t  10 ms. 
-
-![image](https://user-images.githubusercontent.com/84587120/127432737-ee3cd45b-00ee-454b-854a-5443b0a31f38.png)
-
-53. Use PSpice para encontrar los voltajes y corrientes en el circuito de la figura
-11-60. A partir de ello, determine los voltajes y corrientes finales (en estado
-estable) y compare los resultados con los que obtuvo en el problema 35.
-
-![image](https://user-images.githubusercontent.com/84587120/127432840-e1f87cd0-a9b0-4bf7-8249-268cfdd8828f.png)
 
 
 CAPITULO 12: 
