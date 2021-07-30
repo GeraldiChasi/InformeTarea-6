@@ -424,8 +424,9 @@ su campo magnético. Entonces, un campo magnético es un campo de fuerza.
 
 RECOMENDACIONES
 
--
+-Tener muy en cuenta conceptos fundamentales de los capitulos ya vistos con anterioridad sobre capacitores y voltajes para luego aplicarlos en los circuitos formadores de onda simple y transitorios .
 
+-Realizar mas practicas con respecto a magnetismo en circuitos.
 
 BIBLIOGRAFÍA:
 
