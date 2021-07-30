@@ -350,9 +350,15 @@ abajo. Escriba las ecuaciones de la ley de Ampère para este caso.
 
 ![image](https://user-images.githubusercontent.com/84587120/127433550-151f3208-d059-444b-95f1-3893745308eb.png)
 
+![image](https://user-images.githubusercontent.com/84427371/127599267-6f0c5000-32fc-4276-9904-b7e94c6fe97b.png)
+
 15. Encuentre la corriente I en la figura 12-48 si 	  0.16 mWb.
 
 ![image](https://user-images.githubusercontent.com/84587120/127433592-2fada208-b8e4-444e-acc5-ee63e5c5ffe5.png)
+
+![image](https://user-images.githubusercontent.com/84427371/127599333-ff269397-19c9-4239-85ec-d121dd785ad3.png)
+
+![image](https://user-images.githubusercontent.com/84427371/127599345-6a9413d1-64c2-45af-a163-1e41101b9e20.png)
 
 
 
@@ -362,7 +368,11 @@ el desbordamiento.
 
 ![image](https://user-images.githubusercontent.com/84587120/127433632-7a7302c6-5738-4c11-9479-3101c443409f.png)
 
-![image](https://user-images.githubusercontent.com/84587120/127437178-6203a1fe-5c70-41a3-a34a-8efdc2d33326.png)
+
+![image](https://user-images.githubusercontent.com/84427371/127599384-0e1d74d0-9518-4cb3-acfe-50ebdb660eb6.png)
+
+![image](https://user-images.githubusercontent.com/84427371/127599399-e360fdb1-f768-4a5c-ac23-b18184ad3fb6.png)
+
 
 19. El núcleo de hierro fundido de la figura 12-49 mide 1 cm  1.5 cm, a  0.3
 mm, la densidad de flujo del espacio de aire es de 0.426 T y N  600 vueltas.
