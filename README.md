@@ -430,6 +430,7 @@ y se requiere una fuerza de 2 libras para cerrar el espacio, ¿cuánto flujo se 
 
 VIDEO:
 
+https://youtu.be/dTbGbvZtZVU
 
 CONCLUSIONES 
 
